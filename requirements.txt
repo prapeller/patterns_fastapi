@@ -1,0 +1,9 @@
+# app
+flask==2.2.2
+sqlalchemy==1.4.41
+psycopg2-binary==2.9.3
+
+# dev/tests
+pytest==7.1.3
+pylint==2.15.2
+black==22.8.0
